@@ -43,9 +43,9 @@ All pre-seeded test accounts use the password: `password123`
 | `sarah_mkt` | `ROLE_EMPLOYEE` | Marketing |
 
 ### API Documentation & Swagger UI
-- **Swagger UI**: `http://localhost:8082/swagger-ui.html`
-- **OpenAPI JSON**: `http://localhost:8082/v3/api-docs`
-- **H2 Console**: `http://localhost:8082/h2-console` (JDBC URL: `jdbc:h2:mem:assetdb`, Username: `sa`, Password: empty)
+- **Swagger UI**: `/swagger-ui.html`
+- **OpenAPI JSON**: `/v3/api-docs`
+- **H2 Console**: `/h2-console` (JDBC URL: `jdbc:h2:mem:assetdb`, Username: `sa`, Password: empty)
 
 ---
 
